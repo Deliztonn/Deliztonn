@@ -84,7 +84,7 @@ public class Yuri {
 
 ██████████░░░░░░░░░░░ Spring Boot
 ```
-```
+
 ---
 
 # 📊 GitHub Analytics
