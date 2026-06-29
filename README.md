@@ -193,7 +193,7 @@ Sleep 😴            ██ 15%
 ````
 
 ---
-
+```
 ```
 # 🐍 Contribution Snake
 
