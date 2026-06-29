@@ -1,6 +1,4 @@
-# README.md (Parte 1/3)
 
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,40:001100,100:00ff41&text=DELIZTONN&fontColor=00ff41&fontAlign=50&fontSize=65&animation=fadeIn&desc=Java%20Developer%20%7C%20CS50%20Student%20%7C%20Backend%20Enthusiast&descAlignY=68"/>
