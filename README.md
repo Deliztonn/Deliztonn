@@ -84,4 +84,116 @@ public class Yuri {
 
 ██████████░░░░░░░░░░░ Spring Boot
 ```
+````````md
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Deliztonn&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deliztonn&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Deliztonn&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🏢 Condominium Management System
+
+✔ QR Code Authentication
+
+✔ Java Desktop Application
+
+✔ SQL Database
+
+✔ Access History
+
+✔ User Management
+
+</td>
+
+<td width="50%">
+
+### 📚 More Coming Soon...
+
+- Java Projects
+- Backend Applications
+- Spring Boot
+- APIs
+- Personal Portfolio
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Improve Java skills
+- ✅ Learn Spring Boot
+- ✅ Build REST APIs
+- ✅ Create Full Stack Projects
+- ✅ Contribute to Open Source
+- ✅ Land my first Developer Job
+
+---
+
+# 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://github.com/Deliztonn">
+<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deliztonn">
+<img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://instagram.com/Deliztonn">
+<img src="https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# ☕ Coffee Counter
+
+```text
+Coffee ☕           ████████████ 90%
+
+Coding 💻           ███████████████ 100%
+
+Debugging 🐞        ███████████ 85%
+
+Learning 📚         ███████████████ 100%
+
+Sleep 😴            ██ 15%
 ````
+
+---
+
+```
+```
+
