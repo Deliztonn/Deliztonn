@@ -195,5 +195,81 @@ Sleep 😴            ██ 15%
 ---
 
 ```
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+# 💻 Matrix Terminal
+
+```bash
+> booting...
+
+Username............. Deliztonn
+Language............. Java
+Database............. SQL
+IDE.................. IntelliJ IDEA
+Editor............... VS Code
+Status............... Coding...
+Mission.............. Become a Backend Developer
+
+Loading...
+
+████████████████████████████ 100%
+
+Access Granted ✔
+````
+
+---
+
+# ⚡ Fun Facts
+
+```text
+☕ Coffee fuels my code.
+🐞 Bugs are just unexpected features.
+📚 Every day is a chance to learn something new.
+🚀 Small improvements lead to big achievements.
 ```
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deliztonn&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**
+> *— John Johnson*
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer"/>
+
+</div>
+```
+
 
